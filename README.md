@@ -17,8 +17,6 @@ Welcome to my GitHub! I’m a cloud nerd and computer science student figuring t
 <p align="center">
   <a href="https://github.com/bryan-ilman-on-github">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ilman-on-github&layout=compact&theme=dark&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff"/>
-    &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add horizontal space here -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryan-ilman-on-github&theme=dark&background=0F2027&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff"/>
   </a>
 </p>
 
